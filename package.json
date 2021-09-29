@@ -1,0 +1,11 @@
+{
+  "name": "web3-4402-deployed-contracts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "keccak": "^3.0.2",
+    "rlp": "^2.2.6",
+    "web3": "^1.5.3"
+  }
+}
